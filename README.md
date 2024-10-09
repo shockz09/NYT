@@ -3,6 +3,9 @@
 **Overview:**
 The Namma Yatri governance model will empower all stakeholders—drivers, passengers, unions, and app developers—through token-based governance, ensuring transparency and decentralized decision-making. The model revolves around the use of governance tokens (NYT - Namma Yatri Token) that stakeholders earn, hold, delegate, and utilize within the app ecosystem.
 
+![image](https://github.com/user-attachments/assets/0db774e6-7e2e-4dff-aa59-397732236e3e)
+
+
 ### 1. **Token-Based Governance**
    - **Earning Governance Tokens**: 
      - Drivers and passengers earn NYT tokens based on their contribution (rides completed, trips taken, milestones reached).
@@ -27,6 +30,7 @@ The Namma Yatri governance model will empower all stakeholders—drivers, passen
      - Token holders must stake tokens to propose or vote, acting as a spam deterrent.
      - A multi-signature mechanism for proposals above a certain size ensures broad consensus and reduces the risk of takeovers.
    
+
 ### 3. **Incentive Structure**
    - **Driver Incentives**:
      - Drivers earn NYT tokens for completing a set number of rides or reaching other milestones (e.g., 100 trips).
